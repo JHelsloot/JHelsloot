@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Jason
 
+Skills: PYTHON / SQL / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Azure, Power bi 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JHelsloot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Jason-Helsloot/)  
+
+![Profile views](https://gpvc.arturio.dev/JHelsloot)  
 <!--
 **JHelsloot/JHelsloot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
